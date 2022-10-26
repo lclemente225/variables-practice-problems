@@ -1,11 +1,23 @@
-1. //Please return 22
-//you can only add variables
+//1. Write some Javascript Code that will cause the console.log to log the value of 22
+//Do not delete any code
+//Write your code in between the comments below
 const a = 10;
-let b = A;
-console.log(a+b);
+let A;
+//Write your code below this line
 
-2. //Please return “This is Coding for the best”
+//Write your code above this line
+let b = A;
+console.log("Question 1: a + b =", a+b);
+
+//2. The code written below contains a number of errors and is also incomplete.
+// Modify the code written between the comments below such that the console.log will log the string “This is Coding for the best”
+// Please also look for any variable naming convention errors.
 //use three variables at least
+
+
+//Modify the code below
 const FirstPart = "This is ";
 let seCondPart = "not Coding";
-console.log(firstpart+seCondpart);
+console.log("Question 2: ",firstpart+seCondPart);
+
+//Modify the code above
